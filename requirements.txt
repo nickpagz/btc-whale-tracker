@@ -1,0 +1,2 @@
+pandas==1.2.4
+telegram_send==0.25
